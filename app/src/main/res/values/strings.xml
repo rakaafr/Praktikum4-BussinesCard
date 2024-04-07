@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bussines Card</string>
+    <string name="fullname">Raka Afrian Nurhakim</string>
+    <string name="title">Bussines Developer Extraordinaire</string>
+    <string name="phone">+6285871035184</string>
+    <string name="webdev">@WebDeveloper</string>
+    <string name="email">rakaafrian00@gmail.com</string>
+    <string name="name">Raka Afrian</string>
+
+
+</resources>
